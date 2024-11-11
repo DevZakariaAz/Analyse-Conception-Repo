@@ -26,7 +26,6 @@
 |||
 
 ## 4 Empathie :
-![alt text](carte-empathie_pkg_creation_projets.svg)
 |||
 
 ## 5 Définir :
@@ -39,6 +38,6 @@
 |||
 
 ## 9 Test :
-    
+|||    
 
 ### Conclusion
