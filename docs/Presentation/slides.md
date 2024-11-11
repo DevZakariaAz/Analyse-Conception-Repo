@@ -26,7 +26,7 @@
 |||
 
 ## 4 Empathie :
-![alt text](../../Conception/carte-empathie_pkg_creation_projets.svg)
+![alt text](carte-empathie_pkg_creation_projets.svg)
 |||
 
 ## 5 Définir :
