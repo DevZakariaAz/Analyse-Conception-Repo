@@ -1,6 +1,6 @@
 ---
 layout: report_layout
-title: "Rapport : Maîtrise d'Eloquent ORM dans Laravel"
+title: "Rapport : Analyse & Conception"
 ---
 
 {% assign pages = site.pages | sort: "order" %}
