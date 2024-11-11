@@ -9,16 +9,35 @@
 
 |||
 
-## Slide 1 :
-
+## 1 Apprentissage :
+    
+    - Reveal.js
+    - Github Pages
+    - Git SubModule
+    - Jekyll
 |||
  
-## Slide 2 :    
+## 2 Planification :
 
 |||
 
-## Slide 3 :    
+## 3 Pkg-Creation-projets-mockup :
 
 |||
+
+## 4 Empathie :
+|||
+
+## 5 Définir :
+|||
+
+## 6 Idéer :
+|||
+
+## 7 Prototype :
+|||
+
+## 9 Test :
+    
 
 ### Conclusion
