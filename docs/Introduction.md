@@ -9,10 +9,10 @@ order: 1
 ## Équipe de réalisation
 - **Zakaria Azizi**
 - **Fahd Suirita**
-- **El Mrabet Abderrafie**
+- **Samia Bougtoub**
 - **Tribak El yedri Ayoub**
 
-## Supervisé par
+## Supervisé par`
 **Monsieur Fouad ESSARRAJ**
 
 ## Introduction
