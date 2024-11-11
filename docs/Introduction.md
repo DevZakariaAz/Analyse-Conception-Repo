@@ -8,12 +8,10 @@ order: 1
 
 ## Équipe de réalisation
 - **Zakaria Azizi**
-- **Fahd Suirita**
-- **Samia Bougtoub**
-- **Tribak El yedri Ayoub**
 
 ## Supervisé par`
 **Monsieur Fouad ESSARRAJ**
 
-## Introduction
+## Présentation
+  [Présentation du projet](./Presentation/index.html)
 

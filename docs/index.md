@@ -1,6 +1,6 @@
 ---
 layout: report_layout
-title: "Rapport : Analyse & Conception"
+title: "Rapport : Analyse & Conception Soli-lms Pkg-Creation-projets-mockup"
 ---
 
 {% assign pages = site.pages | sort: "order" %}
