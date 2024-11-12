@@ -1,31 +1,15 @@
-## Analyse & Conception
+---
+title: "Planification"
+layout: report_layout # Ensure this matches your layout file name
+chapitre: true
+order: 3
+---
 
-> _Soli-lms pkg-Creation-projet_
+<a id="Planification"></a>
 
-##### Présenté par : _Zakaria Azizi_
+## 3 Planification :
 
-##### Encadre Par : _Mr Essarraj Fouad_
-
-|||
-
-## Introduction :
-![Soli-LMS](../assets/Soli-lms-logo.png)
-|||
-
-> ### 1 Apprentissage :
-
-![Apprentissage](../assets/Apprentissage.png)
-|||
-
-> ### 3 Pkg-Creation-projets-mockup :
-
-![Creation-projets](../assets/project-create-logo-large.png)
-
-|||
-
-> ### 2 Planification :
-
-<table style="font-size: 22px">
+<table >
   <tr>
     <th></th>
     <th>1</th>
@@ -63,31 +47,3 @@
     <td>file-rouge</td>
   </tr>
 </table>
-
-|||
-
-> ### 4 Empathie :
-
-<div class="image-container">
-  <img src="../assets/carte-empathie_pkg_creation_projets.svg" alt="Empathie">
-</div>
-|||
-
-> ### 5 Définir :
-
-|||
-
-> ### 6 Idéer :
-
-![Idéer](../assets/Idéer.png)
-
-|||
-
-> ### 7 Prototype :
-
-|||
-> ### 9 Test :
-
-|||
-
-## Conclusion
