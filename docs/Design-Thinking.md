@@ -10,9 +10,7 @@ order: 4
 
 > ### 1 Empathie :
 
-<div class="image-container">
-  <img src="./assets/carte-empathie_pkg_creation_projets.svg" alt="Empathie">
-</div>
+![Empathie](./Image/carte-empathie_pkg_creation_projets.svg)
 
 
 > ### 2 Définir :
@@ -21,7 +19,7 @@ order: 4
 
 > ### 3 Idéer :
 
-![Idéer](./assets/Idéer.png)
+![Idéer](./Image/Idéer.png)
 
 
 

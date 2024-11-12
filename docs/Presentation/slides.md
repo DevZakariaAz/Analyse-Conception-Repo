@@ -9,17 +9,17 @@
 |||
 
 ## Introduction :
-![Soli-LMS](../assets/Soli-lms-logo.png)
+![Soli-LMS](../Image/Soli-lms-logo.png)
 |||
 
 > ### 1 Apprentissage :
 
-![Apprentissage](../assets/Apprentissage.png)
+![Apprentissage](../Image/Apprentissage.png)
 |||
 
 > ### 3 Pkg-Creation-projets-mockup :
 
-![Creation-projets](../assets/project-create-logo-large.png)
+![Creation-projets](../Image/project-create-logo-large.png)
 
 |||
 
