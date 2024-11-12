@@ -12,6 +12,9 @@ order: 1
 ## Supervisé par 
 **Monsieur Fouad ESSARRAJ**
 
+## Rapport 
+  [Rapport du projet](./Rapport/index.html)
+
 ## Présentation
   [Présentation du projet](./Presentation/index.html)
 
