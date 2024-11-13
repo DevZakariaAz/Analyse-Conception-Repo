@@ -1,6 +1,5 @@
 ---
 title: "Introduction"
-chapitre: true
 order: 1
 ---
 <a id="introduction"></a>
@@ -17,7 +16,7 @@ Bienvenue dans le rapport de projet. Ce document est une présentation du travai
 - **Zakaria Azizi**
 
 ## Supervisé par :
-**Monsieur Fouad ESSARRAJ**
+- **Monsieur Fouad ESSARRAJ**
 
 ## Liens Utiles
 

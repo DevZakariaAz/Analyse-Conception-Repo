@@ -5,6 +5,6 @@ order: 2
 ---
 <a id="Apprentissage"></a>
 
-## 2 Apprentissage :
+## 1 Apprentissage :
 
 ![Apprentissage](../Image/Apprentissage.png)

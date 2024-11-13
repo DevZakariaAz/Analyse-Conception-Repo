@@ -6,7 +6,7 @@ order: 3
 
 <a id="Planification"></a>
 
-## 3 Planification :
+## 2 Planification :
 
 <table >
   <tr>
