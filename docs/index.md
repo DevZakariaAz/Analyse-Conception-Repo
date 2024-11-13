@@ -1,20 +1,25 @@
 ---
 title: "Introduction"
-layout: report_layout  # Ensure this matches your layout file name
 chapitre: true
 order: 1
 ---
 <a id="introduction"></a>
 
-## Équipe de réalisation
+# Page d'accueil
+
+Bienvenue dans le rapport de projet. Ce document est une présentation du travail réalisé dans le cadre de notre projet, avec un aperçu des objectifs, des étapes et des résultats obtenus.
+
+### Projet
+**Nom du Projet :** Soli-LMS  
+**Objectif :** Créer et gérer Pkg-Creation-projets-mockup
+
+## Realise par :
 - **Zakaria Azizi**
 
-## Supervisé par 
+## Supervisé par :
 **Monsieur Fouad ESSARRAJ**
 
-## Rapport 
-  [Rapport du projet](./Rapport/index.html)
+## Liens Utiles
 
-## Présentation
-  [Présentation du projet](./Presentation/index.html)
-
+- [Rapport du projet](./Rapport/index.html)
+- [Présentation du projet](./Presentation/index.html)
