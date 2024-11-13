@@ -1,6 +1,5 @@
 ---
 title: "Design-Thinking"
-layout: report_layout  # Ensure this matches your layout file name
 chapitre: true
 order: 4
 ---
