@@ -8,4 +8,4 @@ order: 2
 
 ## 2 Apprentissage :
 
-![Apprentissage](./Image/Apprentissage.png)
+![Apprentissage](../Image/Apprentissage.png)

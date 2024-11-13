@@ -69,7 +69,7 @@
 > ### 4 Empathie :
 
 <div class="image-container">
-  <img src="../assets/carte-empathie_pkg_creation_projets.svg" alt="Empathie">
+  <img src="../Image/carte-empathie_pkg_creation_projets.svg" alt="Empathie">
 </div>
 |||
 
@@ -79,7 +79,7 @@
 
 > ### 6 Idéer :
 
-![Idéer](../assets/Idéer.png)
+![Idéer](../Image/Idéer.png)
 
 |||
 
