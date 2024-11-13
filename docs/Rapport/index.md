@@ -1,5 +1,4 @@
 ---
-layout: report_layout
 title: "Rapport : Analyse & Conception Soli-lms Pkg-Creation-projets-mockup"
 ---
 
