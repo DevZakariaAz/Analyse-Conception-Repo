@@ -1,0 +1,16 @@
+@startuml
+left to right direction
+
+actor Formateur as F
+
+package "pkg_creation_projet" {
+    usecase "Créer Projet" as CreerProjet
+    usecase "Gérer les Briefs" as GestionDesBriefs
+    usecase "Assigner Compétences" as AssignerCompetences
+}
+
+F -- CreerProjet
+F -- GestionDesBriefs
+F -- AssignerCompetences
+
+@enduml
