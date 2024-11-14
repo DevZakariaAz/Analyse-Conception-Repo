@@ -102,7 +102,7 @@ Les formateurs ont besoin d'un outil qui leur permette de créer facilement des 
 
 > ### 7 Idéer :
 
-![Idéer](../Image/Idéer.png)
+![Idéer](../Image/Cas-d'utilisation.png)
 
 |||
 

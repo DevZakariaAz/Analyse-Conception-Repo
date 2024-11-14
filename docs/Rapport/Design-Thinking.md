@@ -64,6 +64,6 @@ Les formateurs ont besoin d'un outil qui leur permette de créer facilement des 
 - Association compétences-projet : Un menu déroulant ou une zone de recherche pour attribuer facilement des compétences prédéfinies aux projets.
 
 
-> ### 4 Prototype :
+> ## 4 Prototype :
 
-> ### 5 Test :
+> ## 5 Test :
