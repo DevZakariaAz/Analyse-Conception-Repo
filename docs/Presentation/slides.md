@@ -1,6 +1,6 @@
 ## Analyse & Conception
 
-> _Soli-lms pkg-Creation-projet_
+> `_Soli-lms pkg-Creation-projet_`
 
 ##### Présenté par : _Zakaria Azizi_
 
@@ -16,13 +16,6 @@
 
 ![Apprentissage](../Image/Apprentissage.png)
 |||
-
-> ### 3 Pkg-Creation-projets-mockup :
-
-![Creation-projets](../Image/project-create-logo-large.png)
-
-|||
-
 > ### 2 Planification :
 
 <table style="font-size: 22px">
@@ -42,48 +35,78 @@
     <td>Mardi</td>
     <td>-</td>
     <td>-</td>
-    <td>Branche fonctionnelle - Empathie/Définir</td>
+    <td>Empathie</td>
   </tr>
   <tr>
     <td>Mercredi</td>
-    <td>Branche fonctionnelle - Idéation/Diagramme de classes</td>
-    <td>Branche fonctionnelle - Diagramme de classes</td>
-    <td>Conception - Maquette</td>
+    <td>Definition</td>
+    <td>Ideation</td>
+    <td>Prototype</td>
   </tr>
   <tr>
     <td>Jeudi</td>
-    <td>Conception - Maquette</td>
-    <td>file-rouge</td>
-    <td>Conception - Maquette</td>
+    <td>Prototype</td>
+    <td>File_rouge</td>
+    <td>Prototype</td>
   </tr>
   <tr>
     <td>Vendredi</td>
-    <td>Test / Feedback</td>
-    <td>Presentation</td>
-    <td>file-rouge</td>
+    <td>Conception - Maquette</td>
+    <td>Conception - Maquette</td>
+    <td>Conception - Maquette</td>
   </tr>
 </table>
 
 |||
-
-> ### 4 Empathie :
+> ### 3 Design-Thinking :
 
 <div class="image-container">
-  <img src="../Image/carte-empathie_pkg_creation_projets.svg" alt="Empathie">
+  <img src="../Image/carte-design-thinking.png" alt="Design-Thinking">
 </div>
 |||
 
-> ### 5 Définir :
+
+> ### 4 Pkg-Creation-projets-mockup :
+
+![Creation-projets](../Image/project-create-logo-large.png)
 
 |||
 
-> ### 6 Idéer :
+> ### 5. Empathie :
+|||
+
+> ####  `5.1 Responsable de Formation :`
+
+<div class="image-container">
+  <img src="../Image/empathie-Responsable-de-Formation.png" alt="Empathie">
+</div>
+|||
+
+> ####  `5.2 Formateur :`
+
+<div class="image-container">
+  <img src="../Image/empathie-Formateur.png" alt="Empathie">
+</div>
+
+|||
+> ####  `5.3 Apprenant :`
+
+<div class="image-container">
+  <img src="../Image/empathie-Apprenant.png" alt="Empathie"> 
+</div>
+
+|||
+> #### 6 Définition Problématique :
+Les formateurs ont besoin d'un outil qui leur permette de créer facilement des briefs de projet, d'assigner des objectifs clairs et de suivre l'avancement des projets des apprenants.
+|||
+
+> ### 7 Idéer :
 
 ![Idéer](../Image/Idéer.png)
 
 |||
 
-> ### 7 Prototype :
+> ### 8 Prototype :
 
 |||
 > ### 9 Test :
