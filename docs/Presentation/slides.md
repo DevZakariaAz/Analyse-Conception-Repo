@@ -75,25 +75,12 @@
 > ### 5. Empathie :
 |||
 
-> ####  `5.1 Responsable de Formation :`
-
-<div class="image-container">
-  <img src="../Image/empathie-Responsable-de-Formation.png" alt="Empathie">
-</div>
-|||
-
-> ####  `5.2 Formateur :`
+> ####  `5.1 Formateur :`
 
 <div class="image-container">
   <img src="../Image/empathie-Formateur.png" alt="Empathie">
 </div>
 
-|||
-> ####  `5.3 Apprenant :`
-
-<div class="image-container">
-  <img src="../Image/empathie-Apprenant.png" alt="Empathie"> 
-</div>
 
 |||
 > #### 6 Définition Problématique :
