@@ -9,7 +9,8 @@
 |||
 
 ## Introduction :
-![Soli-LMS](../Image/Soli-lms-logo.png)
+![Soli-LMS](../Image/Idéer.png)
+> Projet Soli-LMS
 |||
 
 > ### 1 Apprentissage :
@@ -96,7 +97,30 @@ Les formateurs ont besoin d'un outil qui leur permette de créer facilement des 
 > ### 8 Prototype :
 
 |||
-> ### 9 Test :
+> ### 9 Sprint-3 :
+<table style="font-size: 22px">
+  <thead>
+    <tr>
+      <th>Fonctionnalité</th>
+      <th>Histoire d'utilisateur</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Système de Notifications</td>
+      <td>Notifications pour les mises à jour des projets et des briefs/tâches</td>
+    </tr>
+    <tr>
+      <td>Intégration avec Outils Externes</td>
+      <td>Synchronisation avec Google Calendar, Slack, etc.</td>
+    </tr>
+    <tr>
+      <td>Accès Mobile aux Projets</td>
+      <td>Accéder et gérer les projets depuis un appareil mobile</td>
+    </tr>
+  </tbody>
+</table>
+
 
 |||
 
